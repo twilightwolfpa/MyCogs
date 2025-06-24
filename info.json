@@ -1,0 +1,8 @@
+{
+    "author": ["Griffon551"],
+    "short": "Your custom cogs for Red-DiscordBot.",
+    "description": "A collection of custom cogs developed by Griffon.",
+    "min_bot_version": "3.5.0",
+    "max_bot_version": "3.6.0",
+    "install_msg": "Thanks for adding MyCogs! Check out the available cogs with `[p]cog list MyCogs`."
+}
